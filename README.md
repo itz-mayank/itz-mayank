@@ -4,7 +4,7 @@
 [![Linkedin: Mayank Agarwal](https://img.shields.io/badge/-Mayank%20Agarwal-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-agarwal/)](https://www.linkedin.com/in/mayank-agarwal-profile/)
 
 
-I develop software, build technical communities, create content, and love meeting new people!
+I am a full-stack web developer, and love meeting new people!
 
 
 [![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-mayank&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/itz-mayank/github-readme-stats)
