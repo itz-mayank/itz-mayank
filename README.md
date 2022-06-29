@@ -1,4 +1,4 @@
-## Hey! I'm Mayank Agarwal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="10px">
+## Hey! I'm Mayank Agarwal. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 [![GitHub itz-mayank](https://img.shields.io/github/followers/itz-mayank?label=follow&style=social)](https://github.com/itz-mayank)
 [![Linkedin: Mayank Agarwal](https://img.shields.io/badge/-Mayank%20Agarwal-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-agarwal/)](https://www.linkedin.com/in/mayank-agarwal-profile/)
